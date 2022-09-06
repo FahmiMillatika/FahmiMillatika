@@ -1,9 +1,10 @@
 <h1 align="center"> Hello, I'm Milla 👋 </h1>
-<h3 align="center">🌎 Geophysics 🌎</h3>
+<h3 align="center"> Geophysics </h3>
 
 - 👋 Hi!, I'm Fahmi Millatika 🍋
 - 🌸 You can call me Milla 🌼
-- 👀 My hobby's watch a korean drama 🍰
+- 👀 My hobby is watching korean dramas 🍰
+- ☕ My favorite K-dramas genre are thriller, action, and medical 🌵
 - 🌱 I’m currently learning on Gadjah Mada University ✨
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:fahmi.millatika@mail.ugm.ac.id)
 - ⚡ Fun fact: love spicy food 🍜, ice cream 🍨
