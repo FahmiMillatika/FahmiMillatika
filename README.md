@@ -9,6 +9,7 @@
 - 👀 My hobby is watching korean dramas 🍰
 - ☕ My favorite K-dramas genre are thriller, action, and medical 🌵
 - 🌱 I’m currently studying in Gadjah Mada University ✨
+- 👀 I'm interested in geothermal and volcanology 🌎
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:fahmi.millatika@mail.ugm.ac.id)
 - ⚡ Fun fact: love spicy food 🍜, ice cream 🍨
 <!---
