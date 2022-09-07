@@ -1,7 +1,8 @@
 <h1 align="center"> Hello everyone!, I'm Milla 👋🏻 </h1>
 <h3 align="center"> Geophysics </h3>
 
-![](https://i.pinimg.com/564x/50/cd/bf/50cdbf935adcfca80964d34de9505c8d.jpg) 
+<p align="center"><img width=50% src="https://i.pinimg.com/564x/50/cd/bf/50cdbf935adcfca80964d34de9505c8d.jpg"></p>
+
 
 - 👋🏻 Hi!, I'm Fahmi Millatika 🍋
 - 🌸 You can call me Milla 🌼
